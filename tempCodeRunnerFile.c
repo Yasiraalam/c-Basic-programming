@@ -1,0 +1,1 @@
+printf("the average is: %d\n",average);
